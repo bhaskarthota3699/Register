@@ -1,0 +1,17 @@
+*{
+
+}
+.container-fluid{
+    height: 720px;
+    width: 720px;
+    bottom: 540px;
+    background-color: rgb(9, 76, 202);
+}
+
+ .container-fluid1{
+    height: 540px;
+    bottom: 200px;
+    width: 540px;
+    background-color: rgb(244, 247, 250);
+
+    } 
